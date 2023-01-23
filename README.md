@@ -1,3 +1,5 @@
+C:\Users\felip\OneDrive\Área de Trabalho\nwl-setup\.vscode\.github\preview.jpg
+
 # nlw-setup<h1 align="center"> Habits </h1>
 
 <p align="center">
